@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Nunito&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    padding: 1rem;
+    font-family: 'Karla', sans-serif;
+}
+header{
+    font-size: 2em;
+    padding: 5rem,2rem;
+}
+
+.semi-container{
+    background-color:#14b8a6;
+    padding: 1rem; 
+    border-top-right-radius: 1rem;
+}
+.navigation{
+    padding: 1rem;
+   text-align: right;
+   
+}
+.link{
+    font-size: larger;
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem;
+}
+.link-active{
+    font-size: larger;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+.list-item-inline{
+    list-style: none;
+    display: inline;
+    padding: 0rem,0.5rem;
+   
+}
+.visitmywork{
+   text-align: center;
+   padding: 0.5rem;
+  background-color: #fafafa;
+ 
+}
+ .visitlink{
+    padding: 1rem;
+    background-color: #14b8a6;
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+
+border-radius: 1rem 1rem 1rem 1rem;
+ }
+ .image1text{
+    display: block;
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
+    
+    color: gray;
+ }
+ .image1{
+    
+        display: block;
+       height: 250px;
+       width: 350px;
+        margin: auto;
+      
+ }
+ .downcv{
+    background-color: #fafafa;
+    padding: 2rem;
+    text-align: center;
+ }
+ .section{
+    background-color: #f5f5f5;
+ }
+ .section1{
+    background-color:#f5f5f5 ;
+    text-align: center;
+    padding: 2rem;
+ }
+ .section2{
+    background-color: #f5f5f5;
+    padding: 2rem;
+    text-align: center;
+    
+ }
+ .section3{
+   background-color: white;
+    padding: 2rem;
+    text-align: center;
+    
+ }
+ .list-inline{
+    display: inline;
+    font-size: large;
+    padding: 1rem;
+    background-color: #14b8a6;
+    border-radius: 1rem 1rem 1rem 1rem;
+   }
+.imageandtext{
+    position: relative;
+    text-align: center;
+    font-size: smaller;
+   
+    
+}
+footer{
+    background-color: #14b8a6;
+    padding: 2rem;
+    text-align: center;
+    border-bottom-left-radius: 1rem;
+}
+.footerlist{
+    
+    
+    color: blue;
+   
+    text-decoration: none;
+    
+    font-size: 1rem;
+    b
+
+}
+.list-item-inline1{
+    
+    display: inline;
+   padding: 3rem;
+
+}
+.offwhite{
+    #f5f5f5
+
+}
